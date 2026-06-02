@@ -26,7 +26,7 @@ Repositorio documental del proyecto **MoneyMind: Sistema de Gestión de Finanzas
 - [Guía de Presentación Final](./presentacion/Guia_Presentacion_Final_MoneyMind.docx)
 
 ## Integrantes
-Cristian Camilo Osorio Latorre, Santiago Acosta, Andrea Menjura Arango, Luis Felipe, Juan Felipe Hernández
+Cristian Camilo Osorio Latorre, Santiago Acosta, Andrea Menjura Arango, Luis Felipe, Juan Felipe Hernández, Edward Morales
 
 ## Tecnologías objetivo
 .NET 8, Flutter Web, SQL Server, SignalR/WebSockets, xUnit, GitHub
