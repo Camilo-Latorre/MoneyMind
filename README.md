@@ -25,6 +25,10 @@ Repositorio documental del proyecto **MoneyMind: Sistema de Gestión de Finanzas
 ### Presentación
 - [Guía de Presentación Final](./presentacion/Guia_Presentacion_Final_MoneyMind.docx)
 
+## Videos de sustentación
+- [Videos](https://drive.google.com/drive/folders/1NoK0DyvVnmPnGnmTrGsykzcPv9nycJMa?usp=sharing)
+
+
 ## Integrantes
 Cristian Camilo Osorio Latorre, Santiago Acosta, Andrea Menjura Arango, Luis Felipe, Juan Felipe Hernández, Edward Morales
 
